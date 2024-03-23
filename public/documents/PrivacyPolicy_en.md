@@ -19,11 +19,11 @@ We will explain the meaning of some professional terms for you (these terms will
 
 **Cache (also known as "browser cache")** - In order to save network resources and speed up browsing, the browser stores the recently requested document on the user's disk. When the visitor requests the page again, the browser can display the document from the local disk, which can speed up the page reading.
 
-**This website (also known as "our service" and "this website")** - all websites deployed on the domain name `chuqis.com` and its subdomains.
+**This website (also known as "our service" and "this website")** - all websites deployed on the domain name `acmeo.cn` and its subdomains.
 
 ## Effective scope of this Privacy Policy
 
-All websites and applications developed by Chuqis Team and deployed on the domain name `chuqis.com` and its sub-domains.
+All websites and applications developed by Chuqis Team and deployed on the domain name `acmeo.cn` and its sub-domains.
 
 ## Why do we collect your information
 
@@ -54,7 +54,7 @@ For your sensitive information (such as passwords), we will encrypt the informat
 
 At the same time, all online services we provide will use encryption technology, such as Transport Layer Security Protocol (TLS), to ensure that your personal information will not be disclosed during transmission.
 
-However, it is safe without any security measures. Therefore, no website or service (including this website) can guarantee that your personal information will not be disclosed or modified 100%. So, if you think your information has been modified or leaked, please send an email to`admin@chuqis.com`And describe the problem in detail. We will try our best to help you solve it.
+However, it is safe without any security measures. Therefore, no website or service (including this website) can guarantee that your personal information will not be disclosed or modified 100%. So, if you think your information has been modified or leaked, please send an email to`admin@acmeo.cn`And describe the problem in detail. We will try our best to help you solve it.
 
 ## Information collection list
 
@@ -69,4 +69,4 @@ However, it is safe without any security measures. Therefore, no website or serv
 
 ****
 
-*[Chuqis Team](https://chuqis.com) reserves the right of final interpretation.*
+*[Acme Team](https://acmeo.cn) reserves the right of final interpretation.*
