@@ -35,21 +35,21 @@ export default function Home() {
         <div>
             <div className={styles.title}>
                 <h1>Hello,</h1>
-                <h1><span className={styles.name}>Chuqis rustdesk</span></h1>
+                <h1><span className={styles.name}>Acme rustdesk</span></h1>
                 <p>远程桌面软件，开箱即用，无需任何配置</p>
-                <p>Key请联系管理员获取</p>
+                <p>Key:abc12321</p>
             </div>
             <div className={styles.wrapper}>
-                <HomePrimaryButton link='https://chuqis.com'>
+                <HomePrimaryButton link='https://chuqiyun.com'>
                     Website
                 </HomePrimaryButton>
-                <HomeButton link='https://www.chuqiyun.com/download/product_file?id=5'>
+                <HomeButton link='https://chuqiyun.com/download/product_file?id=5'>
                     Download
                 </HomeButton>
             </div>
             <footer className={styles.footer}>
                 <span>
-                    © 2022 - {new Date().getFullYear()} 初柒科技. All rights reserved.
+                    © 2022 - {new Date().getFullYear()} 极致科技. All rights reserved.
                     <Link href='/#/privacy-policy' className={styles.footer_link}>Privacy Policy</Link>
                 </span>
             </footer>
